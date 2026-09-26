@@ -8,10 +8,10 @@ on:
         required: true
         type: choice
         options:
-          - prod
+          - dev
   push:
     branches:
-      - main 
+      - dev 
 
 jobs:
   deploy:
