@@ -1,4 +1,4 @@
-name: Deploy AY website
+name: Deploy Phase
 
 on:
   workflow_dispatch:
